@@ -1,0 +1,20 @@
+# the below command is how this file was generated
+# $ pip freeze > requirements.txt
+
+# the below line if what you need to run to setup on a new environment
+# $ pip install -r requirements.txt
+
+astroid==2.3.3
+beautifulsoup4==4.8.2
+certifi==2019.11.28
+chardet==3.0.4
+idna==2.9
+isort==4.3.21
+lazy-object-proxy==1.4.3
+mccabe==0.6.1
+pylint==2.4.4
+requests==2.23.0
+six==1.14.0
+soupsieve==2.0
+urllib3==1.25.8
+wrapt==1.11.2

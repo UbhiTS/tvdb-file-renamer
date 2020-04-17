@@ -4,6 +4,10 @@ A quick utility that helps you organize your **Media Library** by scraping **The
 Also helps you with missing episodes (example given below). 
 If you like my repo, I really hope you consider :star2:ing it.
 
+If you want to see a video walkthrough of the utility in action, click below
+- [The TVDB File Renamer : Video Walkthrough](https://youtu.be/U5Q9pm4S10c)
+- [![The TVDB File Renamer : Video Walkthrough](http://img.youtube.com/vi/U5Q9pm4S10c/0.jpg)](https://www.youtube.com/watch?v=U5Q9pm4S10c "The TVDB File Renamer : Video Walkthrough")
+
 ## Reduces your effort to organize and correctly name your media files :-
 
 ![BeforeAfter](https://ubhits.s3.amazonaws.com/tvdb_renamer/BeforeAfter.png)

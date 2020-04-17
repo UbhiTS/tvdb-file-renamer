@@ -16,7 +16,7 @@ And below is the **output** when you run the program
 
 ![Terminal](https://ubhits.s3.amazonaws.com/tvdb_renamer/Terminal.png)
 
-- All files that were **matched and renamed**, are marked in **Green**.
+- All files that were **found and matched**, are marked in **Green**.
 - All files where the names were **not matched** are marked with **Red**. 
 
 ## Diagnosing and Correcting Mismatched Files

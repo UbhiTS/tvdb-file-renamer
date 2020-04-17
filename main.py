@@ -4,6 +4,15 @@ import os
 from bs4 import BeautifulSoup
 from os import listdir, path
 
+__author__ = 'Tarunpreet Ubhi'
+__copyright__ = 'Copyright 2020, Tarunpreet Ubhi'
+__credits__ = ['Tarunpreet Ubhi']
+__license__ = 'MIT'
+__version__ = '0.1.0'
+__maintainer__ = 'Tarunpreet Ubhi'
+__email__ = 'ubhits@outlook.com'
+__status__ = 'Prototype'
+
 class bcolors:
     HEADER = '\033[95m'
     OKBLUE = '\033[94m'

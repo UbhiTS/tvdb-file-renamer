@@ -46,7 +46,7 @@ To correct, I **added the missing "!" to my file** and rerun the program, and **
 
 I hope this helps you. Please consider :star2:ing my repo if it did. It would encourage me a lot to share more with the community :relaxed:
 
-# HUGE DICLAIMER
+# HUGE DISCLAIMER
 I cannot stress this enough to please backup your files before you run this program. It works, but because we are renaming files on your system, there can be a chance that you lose important data. Please please please backup your data before you even think of running this program. I've tried my best to take care any edge issues, but still don't guarantee 100% stability! I can say with 100% confidence that it's worked for me beautifully! If you find any issues, please feel free to log them here.
 
 ![TheTVDB](https://ubhits.s3.amazonaws.com/tvdb_renamer/TheTVDB.png)

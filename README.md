@@ -1,4 +1,4 @@
-# :construction_worker: The TVDB File Renamer
+# :construction_worker: The TVDB File Renamer <img src="https://poa5qzspd7.execute-api.us-east-1.amazonaws.com/live/hypercounterimage/2ade966219a2499d8c1f687c6dd6e5b3/counter.png" />
 A quick utility that helps you organize your **Media Library** by scraping **TheTVDB.com** website and renaming your files in a neat and clean fashion. It's **extremely helpful** for **Plex**, **Kodi** or other media servers if you know what I mean :wink: :wink:.
 
 Also helps you with missing episodes (example given below). 
